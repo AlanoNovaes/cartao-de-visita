@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align:justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+section{
+    width: 700px;
+    height: 348px;
+    padding: 10px;
+    margin-left: 0px;
+    background-repeat: no-repeat;
+    background-image: url('../back.png');
+    background-color: black;
+}
+
+.insta{
+    list-style-image: url(../insta.png);
+
+}
+
+.twitter{
+    list-style-image: url(../twitter.png);
+}
+.youtube{
+    list-style-image: url(../youtube.png);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
